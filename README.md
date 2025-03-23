@@ -1,0 +1,2 @@
+# Customer-Churn-Prediction-for-Telecom-Customer-Retention
+The aim of this project is to create an effective churn prediction model that helps telecom companies identify customers at high risk of leaving. With this insight, companies can implement more personalized retention strategies to enhance customer satisfaction and reduce overall churn rates, ultimately leading to improved business outcomes.
