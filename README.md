@@ -1,5 +1,4 @@
 # Customer-Churn-Prediction-for-Telecom-Customer-Retention
----
 
 ## Project Description
 
